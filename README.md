@@ -5,4 +5,5 @@ This is an Conrotl_Panel
 ثم اذهب إلى ال phpmyadmin 
 ثم قم بإضافة جدول ال دول ، ستجد الجدول في ملف conniction.php
 
-include("index.php");
+وأيضا ضع الملفات التي لاتضم امتداد php 
+في مجلد وليكن اسمه assest 
